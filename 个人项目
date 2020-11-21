@@ -1,0 +1,10 @@
+#inculde<stdio.h>
+int main()
+{
+float a=3.2;
+float b=2.3;
+float s ;
+s=a+b; 
+printf(“%f",s):
+
+}
